@@ -1,0 +1,54 @@
+[
+ {
+    "id": "001",
+    "nome": "Teclado Gamer",
+    "marca": "Generico"
+    
+},
+{
+    "id":"002",
+    "nome":"Mause Gamer",
+    "marca":"Generico"
+},
+{
+    "id": "003",
+    "nome": "004",
+    "marca": "LG"
+},
+
+{ 
+    "id":"004",
+    "nome": "Tablet",
+    "marca": "TOSHIBA"
+},
+
+{
+    "id": "005",
+    "nome": "Memoria ram",
+    "marca": "hard"
+},
+
+{
+    "id": "006",
+    "nome": "web cam",
+    "marca": "cobra"
+},
+
+{ 
+    "id": "007",
+    "nome": "cabo sata",
+    "marca":"positivo"
+},
+
+{
+    "id": "008",
+    "nome": "monitor",
+    "marca": "AOC"
+},
+
+{
+    "id": "009",
+    "nome": "estabilizador",
+    "marca":"microsol"
+}
+]
