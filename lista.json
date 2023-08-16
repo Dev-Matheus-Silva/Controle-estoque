@@ -2,53 +2,62 @@
  {
     "id": "001",
     "nome": "Teclado Gamer",
-    "marca": "Generico"
+    "marca": "Generico",
+     "qtd": "1"
     
 },
 {
     "id":"002",
     "nome":"Mause Gamer",
-    "marca":"Generico"
+    "marca":"Generico",
+     "qtd": "1"
 },
 {
     "id": "003",
     "nome": "004",
-    "marca": "LG"
+    "marca": "LG",
+    "qtd": "1"
 },
 
 { 
     "id":"004",
     "nome": "Tablet",
-    "marca": "TOSHIBA"
+    "marca": "TOSHIBA",
+    "qtd": "1"
 },
 
 {
     "id": "005",
     "nome": "Memoria ram",
-    "marca": "hard"
+    "marca": "hard",
+    "qtd": "1"
 },
 
 {
     "id": "006",
     "nome": "web cam",
-    "marca": "cobra"
+    "marca": "cobra",
+    "qtd": "1"
 },
 
 { 
     "id": "007",
     "nome": "cabo sata",
-    "marca":"positivo"
+    "marca":"positivo",
+    "qtd": "1"
 },
 
 {
     "id": "008",
     "nome": "monitor",
-    "marca": "AOC"
+    "marca": "AOC",
+    "qtd": "1"
 },
 
 {
     "id": "009",
     "nome": "estabilizador",
-    "marca":"microsol"
+    "marca":"microsol",
+    "qtd": "1"
 }
 ]
